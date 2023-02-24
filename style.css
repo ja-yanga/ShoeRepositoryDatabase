@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(3,1,45);
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+#btnAdd{
+    margin-left: 5px;
+    background-color: blue;
+    font-weight: bold;
+}
+label{
+    color: white;
+}
+.nav-item a:hover {
+    background-color:rgba(186, 186, 186, 0.415);
+    border-radius: 50px;
+}
+.navbar-brand{
+    font-weight: bold;
+}
